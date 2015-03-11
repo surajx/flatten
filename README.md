@@ -1,4 +1,4 @@
-# flatten
+# flatten [![Build Status](https://travis-ci.org/surajx/flatten.svg?branch=master)](https://travis-ci.org/surajx/flatten)
 flatten is a command line utility to collapse a directory tree and bring all files under the root directory.
 
 ### Installation
